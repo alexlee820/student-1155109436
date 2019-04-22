@@ -21,7 +21,7 @@ ENGG2430|F~A
 ELTU2014|F~A  
 FN1000  |F~A  
 CENG2010|F~A  
-# The food my girlfriend love  
+# The food my girlfriend loves  
 - All the dessert made of purple yam  
 - Wonton noodle  
 - Sweet potato  
